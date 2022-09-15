@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cupboards</string>
+    <string name="buttonSaveCupb">Добавить Шкафчик</string>
+    <string name="editTextAddcupB">Имя шкафчика</string>
+</resources>
